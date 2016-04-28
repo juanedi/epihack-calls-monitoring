@@ -1,0 +1,16 @@
+{
+  "name": "voice-event-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "monitor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^11.0.1",
+    "feedparser": "^1.1.4",
+    "request": "^2.72.0"
+  }
+}
